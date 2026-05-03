@@ -1,0 +1,7 @@
+es\upm\dit\isst\lab_datos\domain\Asignatura.class
+es\upm\dit\isst\lab_datos\domain\ProfesorRepository.class
+es\upm\dit\isst\lab_datos\domain\AsignaturaRepository.class
+es\upm\dit\isst\lab_datos\domain\DepartamentoRepository.class
+es\upm\dit\isst\lab_datos\domain\Profesor.class
+es\upm\dit\isst\lab_datos\LabDatosApplication.class
+es\upm\dit\isst\lab_datos\domain\Departamento.class
